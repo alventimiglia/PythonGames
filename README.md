@@ -11,3 +11,7 @@ This is a CLI minesweeper project. There are further improvements that could be 
 ## pong
 
 This is a recreation of the classic game, Pong. It uses the basic principles of Python, but really explores the use of the turtle library.
+
+## snake
+
+This is a recreation of Snake. I was interested in following the tutorial to complete this project because it used the tkinter and pygame libraries. It was also helpful to work through a breakdown in the math to make this game work.
